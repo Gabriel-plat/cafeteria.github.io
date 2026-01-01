@@ -1,0 +1,24 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdfaf6;
+}
+
+.text-brown {
+  color: #6f4e37;
+}
+
+.bg-brown {
+  background-color: #6f4e37 !important;
+}
+
+.btn-brown {
+  background-color: #6f4e37;
+  color: #fff;
+}
+
+.btn-brown:hover {
+  background-color: #5a3d2c;
+}
+iframe {
+  border: 0;
+}
